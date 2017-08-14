@@ -1,6 +1,6 @@
 # devlogger
 
-> 
+A logging application using FeatherJS and REST API.
 
 ## About
 
